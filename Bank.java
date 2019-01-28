@@ -13,7 +13,7 @@ public class Bank
 	{
 		this.name = name;
 		
-	}
+	}//
 	
 	void createHeadOffice()
 	{
